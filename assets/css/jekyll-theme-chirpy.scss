@@ -18,3 +18,8 @@ html[data-mode='light'] {
   --body-bg: #fdf6e3;  /* サイト全体の背景 */
   --main-bg: #fdf6e3;  /* 記事が乗る部分の背景 */
 }
+
+#tabs > li:nth-last-child(2),
+#tabs > li:nth-last-child(1) {
+  display: none;
+}
