@@ -8,7 +8,7 @@ tags: [子育て支援室]
 **エリア**: 茨城県つくばみらい市絹の台3-1-4
 **利用できる方**: 市内に在住、在学、在勤する18歳未満の者、及びその保護者、並びにこれらのもので構成されている団体
 **料金**: 無料
-**公式サイト**: [小絹児童館]([https://www.city.tsukubamirai.lg.jp/xxxxx](https://anfini.co.jp/kokinu-jidokan/))
+**公式サイト**: [小絹児童館の情報](https://anfini.co.jp/kokinu-jidokan/)
 
 ## メモ
 
