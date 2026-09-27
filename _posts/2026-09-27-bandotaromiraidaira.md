@@ -5,7 +5,7 @@ categories: [Life]
 tags: [レストラン]
 ---
 
-**エリア**: <br>
+**エリア**: 茨城県つくばみらい市小張4126−1<br>
 **公式サイト**: [ばんどう太郎 みらい平店](https://shop.bandotaro.co.jp/detail/417/)
 
 ## メモ
