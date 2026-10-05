@@ -1,5 +1,5 @@
 ---
-title: okometokurashi
+title: お米と暮らし
 date: 2026-10-05 09:00:00 +0900
 categories: [Life]
 tags: [お店]
