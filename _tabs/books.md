@@ -2,7 +2,7 @@
 layout: page
 icon: fas fa-book
 order: 2
-title: Bookshelf / 本棚
+title: Bookshelf / 書棚
 ---
 
 <ul>
