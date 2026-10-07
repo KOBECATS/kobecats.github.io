@@ -24,7 +24,7 @@ html[data-mode='light'] {
   display: none;
 }
 
-#tabs > li:nth-last-child(2),
-#tabs > li:nth-last-child(1) {
+li.nav-item:has(> a[href$="/categories/"]),
+li.nav-item:has(> a[href$="/tags/"]) {
   display: none;
 }
