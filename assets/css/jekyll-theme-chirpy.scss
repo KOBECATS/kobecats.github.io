@@ -23,3 +23,8 @@ html[data-mode='light'] {
 #tabs > li:nth-last-child(1) {
   display: none;
 }
+
+#tabs > li:nth-last-child(2),
+#tabs > li:nth-last-child(1) {
+  display: none;
+}
